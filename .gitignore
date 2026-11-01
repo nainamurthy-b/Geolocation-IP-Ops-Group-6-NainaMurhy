@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+
+# API secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.txt
+
+# Testing
+.pytest_cache/
+
+# Build files
+dist/
+build/
+wheels/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
